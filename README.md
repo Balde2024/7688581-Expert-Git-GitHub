@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-Developper 2
+Dévéloppeur full stack
 
 ## License
 
