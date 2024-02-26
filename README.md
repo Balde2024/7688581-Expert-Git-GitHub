@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-Dévéloppeur full stack junior
+Dévéloppeur full stack junior ou senior
 
 ## License
 
